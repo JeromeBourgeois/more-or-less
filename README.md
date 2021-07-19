@@ -1,2 +1,2 @@
 # more-or-less
-Small game written in rust
+Small game written in Rust
